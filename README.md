@@ -1,8 +1,11 @@
 Hi! I'm Kayla, an undergraduate at Columbia University studying Data Science and Economics. I'm passionate about leveraging science and technology to create meaningful impact—particularly in the areas of sustainability, statistics, and innovation. 
 
 _Currently:_
+
 ● I’m a fellow at Break Through Tech AI and Salesforce, where I’ve been building machine learning models in Python and collaborating on real-world case studies.
+
 ● I'm expanding my skills in Python and SQL, while exploring various libraries.
+
 ● I'm looking to collaborate on projects that apply data science to solve real-world problems—especially in the areas of social good, education, or sustainability.
 
 <!--
