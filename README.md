@@ -4,7 +4,7 @@ _Currently:_
 
 🔭 I’m a fellow at Break Through Tech AI and Salesforce, where I’ve been building machine learning models in Python and collaborating on real-world case studies.
 
-🌱 I'm expanding my skills in Python and SQL, while exploring various libraries.
+🌱 I'm expanding my skills in Python and SQL, while exploring various libraries such as Pandas, NumPy, Matplotlib, Scikit-learn, Seaborn, TenserFlow, Keras.
 
 👯 I'm looking to collaborate on projects that apply data science to solve real-world problems—especially in the areas of social good, education, or sustainability.
 
